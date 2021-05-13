@@ -2,6 +2,11 @@ package org.git.test;
 
 public class model {
 	
+	public model(String name) {
+		super();
+		this.name = name;
+	}
+
 	private String name;
 
 	public String getName() {
