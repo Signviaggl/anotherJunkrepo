@@ -18,4 +18,6 @@ public class model {
 	}
 
 	//now I am tryng to branch out!
+	private int age;
+	
 }
