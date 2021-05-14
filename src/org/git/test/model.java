@@ -22,4 +22,9 @@ public class model {
 	
 	// and here is my final attept at branching out even further!
 	
+	@Override
+	public String toString() {
+		return "model [name=" + name + "]";
+	}
+
 }
