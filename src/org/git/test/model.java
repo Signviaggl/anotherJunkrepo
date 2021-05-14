@@ -17,4 +17,9 @@ public class model {
 		this.name = name;
 	}
 
+	@Override
+	public String toString() {
+		return "model [name=" + name + "]";
+	}
+
 }
