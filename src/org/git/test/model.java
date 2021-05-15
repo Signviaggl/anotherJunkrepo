@@ -26,9 +26,5 @@ public class model {
 	public String toString() {
 		return "model [name=" + name + "]";
 	}
-	
-// now wonder where will this go?!
-=======
 
-	// this is my final commit
 }
